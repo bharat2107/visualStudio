@@ -10,3 +10,5 @@ def main():
 main()
 
 print("Fresh Start")
+print("Second Test")
+
