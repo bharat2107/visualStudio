@@ -9,4 +9,4 @@ def main():
 
 main()
 
-print("Pushing to GitHub")
+print("Fresh Start")
