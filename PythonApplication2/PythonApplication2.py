@@ -10,3 +10,5 @@ def main():
 main()
 
 print("Pushing to GitHub")
+print("Hey Local")
+print("Again")
