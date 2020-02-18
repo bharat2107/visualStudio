@@ -10,3 +10,4 @@ def main():
 main()
 
 print("Pushing to GitHub")
+print("Testing fetch")
